@@ -1,11 +1,10 @@
 ---
 name: assembly-line-process-design
-description: Transform complex workflows into simple, repeatable, scalable production
-  processes by breaking work into discrete steps that anyone can master.
+description: Transform complex workflows into simple, repeatable, scalable production processes by breaking work into discrete steps that anyone can master.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - assembly-line-process-design
 - transformation
