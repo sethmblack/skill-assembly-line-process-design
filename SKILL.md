@@ -3,8 +3,9 @@ name: assembly-line-process-design
 description: Transform complex workflows into simple, repeatable, scalable production processes by breaking work into discrete steps that anyone can master.
 license: MIT
 metadata:
+  version: 1.0.3413
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - assembly-line-process-design
 - transformation
